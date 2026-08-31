@@ -1,0 +1,6 @@
+{
+  "name": "AppNyormal",
+  "description": "AppNyormal - AI Voice Generator, Text to Speech, Voice Cloning & Video Generation Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
